@@ -7,7 +7,6 @@
 class Point2D {
 
     public:
-
     //constructor
     Point2D();
     Point2D(double x, double y);
